@@ -44,7 +44,7 @@ body {
 /*--------Banniere-------------------*/
 
 .banniere {
-    background-image: url('/img/mac.jpg');
+    background-image: url('img/mac.jpg');
     background-size: cover;
     background-position: center;
     display: flex;
