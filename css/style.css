@@ -505,20 +505,25 @@ body {
   margin-top: 1em;
 }
 
-.footer-social-icons a {
-  margin-right: 5px;
-  color: #ffffff;
-}
+  .footer-social-icons a {
+    margin-right: 5px;
+    color: #ffffff;
+  }
+  
+  .powered-by {
+    margin-top: 10px;
+  }
+  
+  .powered-by a {
+    color: #ffffff;
+    text-decoration: none;
+  }
+  
+  .powered-by a:hover {
+    text-decoration: underline;
+  }
+  
 
-.powered-by {
-  margin-top: 10px;
-}
 
-.powered-by a {
-  color: #ffffff;
-  text-decoration: none;
-}
 
-.powered-by a:hover {
-  text-decoration: underline;
-}
+  
